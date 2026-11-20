@@ -1,0 +1,8 @@
+MAX_DIST,WEIGHT,THREAT,DECAY,DESCRIP,BASE_PATH,CUR_PATH,FUT_PATH
+6,0.7,cropland,exponential,Cropland 农田,,cropland_c.tif,
+4,0.8,barren,exponential,Barren 裸地,,barren_c.tif,
+10,1.0,impervious,exponential,Impervious 不透水,,impervious_c.tif,
+10,1.0,hir,linear,HIR 高影响道路,,hir_c.tif,
+5,0.8,mir,linear,MIR 中等影响道路,,mir_c.tif,
+2,0.7,lir,linear,LIR 低影响道路,,lir_c.tif,
+1,0.5,efr,linear,EFR 生态友好道路,,efr_c.tif,

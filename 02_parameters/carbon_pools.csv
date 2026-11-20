@@ -1,0 +1,11 @@
+lucode,LULC_Name,C_above,C_below,C_soil,C_dead
+1,Cropland,2.1,10.5,26.49,0.39
+2,Forest,33.64,14.02,34.58,0.47
+3,Shrub,33.64,14.02,34.58,0.47
+4,Grassland,0.71,8.76,45.35,0.14
+5,Water,0,0,0,0
+6,Snow/Ice,0,0,0,0
+7,Barren,0.07,0,22.79,0
+8,Impervious,0.49,5.53,0,0
+9,Wetland,2.75,11.85,92.48,0.52
+10,Roads,0,9.85,42.71,0.33

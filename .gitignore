@@ -1,0 +1,7 @@
+# Large result rasters are not versioned; they are archived separately (Zenodo/Figshare)
+03_results/
+# Python caches
+__pycache__/
+*.pyc
+# Office temp files
+~$*
